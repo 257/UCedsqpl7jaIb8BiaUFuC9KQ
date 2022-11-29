@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Pasta Grannies</title>
+    <link>https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ</link>
+    <description>Welcome to Pasta Grannies!  I find and film real Italian grannies - nonne - making delicious, traditional, handmade pasta. And sometimes soups, breads, dolci, rice dishes, that kind of thing, because that is what the Grannies wanted to cook for me. 
+I'm saving skills and sharing traditions one recipe and Granny at a time!
+
+Pasta Grannies posts every Friday afternoon.</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AMLnZu-RFwi2K1ODmJ-z2zeJJ6GpkqeR4VlPm0kpznY8=s0</url>
+      <title>Pasta Grannies</title>
+      <link>https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ</link>
+    </image>
+    <item>
+      <description><![CDATA[Rita, Adriana and Brunilde are friends who dance, sing and cook together. They are from Cingoli, Marche, and frascarelli is one of this region's typical dishes. It can be satisfyingly simple, soothing or spicy, depending on what you dress the rice with. Enjoy the episode.
+Frascarelli: 4 litres of water, 800g arborio rice, around 40g of plain flour (it depends on how thick you want it), a general pinch of salt.
+For the sausage dressing: wild fennel herb - if you cannot find this, use a teaspoon of freshly ground fennel seed, chervil herb, or some parsley; white wine, olive oil, 3 large meaty Italian sausages crumbled, a pinch of peperoncino, 400ml passata
+For the guanciale: 50g lard or bacon fat, 150g of guanciale or pancetta, one carrot, celery stick and onion, one 400ml tin tomatoes, plus 300ml of passata, peperoncino to taste.]]></description>
+      <category><![CDATA[Film & Animation]]></category>
+      <title><![CDATA[Party with Rita & friends as they make rice polenta called frascarelli! | Pasta Grannies]]></title>
+      <guid>ATOvD5Z-uR0</guid>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ</source>
+      <author>Pasta Grannies</author>
+      <link>https://www.youtube.com/watch?v=ATOvD5Z-uR0</link>
+      <enclosure url="http://174.89.235.81:8080/UCedsqpl7jaIb8BiaUFuC9KQ/ATOvD5Z-uR0.mkv" length="139820567" type="application/octet-stream"/>
+      <itunes:image href="https://i.ytimg.com/vi/ATOvD5Z-uR0/maxresdefault.jpg"/>
+    </item>
+  </channel>
+</rss>
